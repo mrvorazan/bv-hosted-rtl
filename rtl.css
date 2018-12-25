@@ -32,3 +32,10 @@
     float: right!important;
 }
 
+.bv-cv2-cleanslate .bv-core-container-66 .bv-action-bar-header {
+    float: right!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-toplevel-actions, .bv-cv2-cleanslate .bv-core-container-66 .bv-write-review-container, .bv-cv2-cleanslate .bv-core-container-66 .bv-read-review-container, .bv-cv2-cleanslate .bv-core-container-66 .bv-ask-question-container, .bv-cv2-cleanslate .bv-core-container-66 .bv-client-logo-container {
+    float: left!important;
+}
