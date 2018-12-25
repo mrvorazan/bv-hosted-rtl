@@ -142,3 +142,24 @@
 .bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset.bv-fieldset-rating .bv-fieldset-label {
     padding: .6em 0 .6em .75em!important;
 }
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset .bv-checkbox-container {
+    text-align: right!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-select-field .bv-fieldset-inner, 
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset-agreements .bv-fieldset-inner, 
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-radio-field .bv-fieldset-inner {
+    padding-right: 20px!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset {
+    float: right!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset.bv-fieldset-secondary-rating .bv-fieldset-label-wrapper, 
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset.bv-select-field .bv-fieldset-label-wrapper, 
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset.bv-fieldset-active.bv-select-field .bv-fieldset-label-wrapper, 
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset.bv-fieldset-isrecommended .bv-fieldset-label-wrapper {
+    float: right!important;
+}
