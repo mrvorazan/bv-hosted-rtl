@@ -138,3 +138,7 @@
     margin: 0!important;
     padding: 0 0 0 .5em!important;
 }
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset.bv-fieldset-rating .bv-fieldset-label {
+    padding: .6em 0 .6em .75em!important;
+}
