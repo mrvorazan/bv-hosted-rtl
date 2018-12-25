@@ -39,3 +39,21 @@
 .bv-cv2-cleanslate .bv-core-container-66 .bv-toplevel-actions, .bv-cv2-cleanslate .bv-core-container-66 .bv-write-review-container, .bv-cv2-cleanslate .bv-core-container-66 .bv-read-review-container, .bv-cv2-cleanslate .bv-core-container-66 .bv-ask-question-container, .bv-cv2-cleanslate .bv-core-container-66 .bv-client-logo-container {
     float: left!important;
 }
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-content-item .bv-content-btn, .bv-cv2-cleanslate .bv-core-container-66 .bv-content-item .bv-content-report-btn, .bv-cv2-cleanslate .bv-core-container-66 .bv-content-item .bv-content-feedback-vote-request {
+    float: right!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-content-item .bv-content-btn:first-child {
+    margin-left: 5px!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-content-item .bv-content-feedback-vote .bv-content-feedback-btn-container, .bv-cv2-cleanslate .bv-core-container-66 .bv-content-item:hover .bv-content-feedback-vote .bv-content-feedback-btn-container {
+    float: right!important;
+    margin-left: 5px!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-content-item .bv-content-feedback-vote .bv-content-feedback-vote-request, .bv-cv2-cleanslate .bv-core-container-66 .bv-content-item:hover .bv-content-feedback-vote .bv-content-feedback-vote-request{
+	padding-left: 10px!important;
+	padding-right: 0px!important;
+}
