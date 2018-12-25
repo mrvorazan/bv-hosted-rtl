@@ -74,9 +74,47 @@
 
 /*Splash screen*/
 
+.bv-cv2-cleanslate .bv-core-container-66 .bv-mbox .bv-mbox-sidebar {
+    float: right!important;
+    width: 25%!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-mbox .bv-mbox-content-container {
+    float: left!important;
+}
 
 .bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset {
-	float: left;
+	float: left!important;
+}
+
+
+.bv-cv2-cleanslate, .bv-cv2-cleanslate h1, .bv-cv2-cleanslate h2, .bv-cv2-cleanslate h3, 
+.bv-cv2-cleanslate h4, .bv-cv2-cleanslate h5, .bv-cv2-cleanslate h6, .bv-cv2-cleanslate p, 
+.bv-cv2-cleanslate td, .bv-cv2-cleanslate dl, .bv-cv2-cleanslate tr, .bv-cv2-cleanslate dt, 
+.bv-cv2-cleanslate ol, .bv-cv2-cleanslate form, .bv-cv2-cleanslate select.bv-select-cleanslate, 
+.bv-cv2-cleanslate option, .bv-cv2-cleanslate pre, .bv-cv2-cleanslate div, .bv-cv2-cleanslate table, 
+.bv-cv2-cleanslate th, .bv-cv2-cleanslate tbody, .bv-cv2-cleanslate tfoot, .bv-cv2-cleanslate caption, 
+.bv-cv2-cleanslate thead, .bv-cv2-cleanslate ul, .bv-cv2-cleanslate li, .bv-cv2-cleanslate ul li, 
+.bv-cv2-cleanslate ol li, .bv-cv2-cleanslate .bv-shared ul li, .bv-cv2-cleanslate .bv-shared ol li, 
+.bv-cv2-cleanslate address, .bv-cv2-cleanslate blockquote, .bv-cv2-cleanslate dd, .bv-cv2-cleanslate fieldset, 
+.bv-cv2-cleanslate iframe, .bv-cv2-cleanslate strong, .bv-cv2-cleanslate legend, .bv-cv2-cleanslate em, 
+.bv-cv2-cleanslate s, .bv-cv2-cleanslate cite, .bv-cv2-cleanslate span, .bv-cv2-cleanslate input, .bv-cv2-cleanslate sup, 
+.bv-cv2-cleanslate label, .bv-cv2-cleanslate dfn, .bv-cv2-cleanslate object, .bv-cv2-cleanslate big, .bv-cv2-cleanslate q, 
+.bv-cv2-cleanslate font, .bv-cv2-cleanslate samp, .bv-cv2-cleanslate acronym, .bv-cv2-cleanslate small, 
+.bv-cv2-cleanslate img, .bv-cv2-cleanslate strike, .bv-cv2-cleanslate code, .bv-cv2-cleanslate sub, 
+.bv-cv2-cleanslate ins, .bv-cv2-cleanslate textarea, .bv-cv2-cleanslate var, .bv-cv2-cleanslate a, 
+.bv-cv2-cleanslate abbr, .bv-cv2-cleanslate applet, .bv-cv2-cleanslate del, .bv-cv2-cleanslate kbd, 
+.bv-cv2-cleanslate tt, .bv-cv2-cleanslate b, .bv-cv2-cleanslate i, .bv-cv2-cleanslate hr, 
+.bv-cv2-cleanslate article, .bv-cv2-cleanslate aside, .bv-cv2-cleanslate dialog, .bv-cv2-cleanslate figure, 
+.bv-cv2-cleanslate footer, .bv-cv2-cleanslate header, .bv-cv2-cleanslate hgroup, .bv-cv2-cleanslate menu, 
+.bv-cv2-cleanslate nav, .bv-cv2-cleanslate section, .bv-cv2-cleanslate time, .bv-cv2-cleanslate mark, 
+.bv-cv2-cleanslate audio, .bv-cv2-cleanslate video, .bv-cv2-cleanslate button {
+	right: 0px!important;
+	left: auto!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset.bv-fieldset .bv-fieldset-arrowicon {
+	left: auto!important;
 }
 
 .bv-cv2-cleanslate .bv-core-container-66 .bv-submission #bv-fieldset-label-rating {
@@ -87,3 +125,16 @@
 .bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset {
 	padding-left: 50px!important;
 	padding-right: 20px!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset .bv-helper{
+    left: 0px!important;
+	right: auto!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset label, 
+.bv-cv2-cleanslate .bv-core-container-66 .bv-submission .bv-fieldsets .bv-fieldset .bv-fieldset-label {
+    float: right!important;
+    margin: 0!important;
+    padding: 0 0 0 .5em!important;
+}
