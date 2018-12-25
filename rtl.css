@@ -1,1 +1,15 @@
-body {display:none!important;}
+.bv-cv2-cleanslate {
+	direction: rtl!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-content-item-product-image-offset-on .bv-content-data-summary, .bv-cv2-cleanslate .bv-core-container-66 .bv-content-item-avatar-offset-on .bv-content-data-summary {
+    padding-right: 60px!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-rating-stars-on {
+    float: right!important;
+}
+
+.bv-cv2-cleanslate .bv-core-container-66 .bv-content-title-container {
+    float: right!important;
+}
